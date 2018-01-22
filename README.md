@@ -1,15 +1,22 @@
-# TowerDefense
-Game I'm developing on my free time.
+# TowerDefense for BlackBerry10!
 
-The scope to reach is to create a simple an easy game for all those Tower defense lovers. 
-Why I do this?
-Because i though it would be fun to make my own tower defense game.
-And since I'm willing to dev and improve it. This could increase my skills as developer
+The scope is to create a simple and easy game for all those Tower defense lovers. 
 
-I'm using the following to dev this :
+---
+
+Why do this?
+Because we though it would be fun to make our own tower defense game while learning to increase our skills as a group.
+
+I'm using the following to develop this :
 
   * Phaser.io
+  * Blackberry Webworks
   * TypeScript
   * HTML5
   * CSS3
 
+Learn Phaser!
+https://phaser.io/learn
+
+What's a BlackBerry WebWorks app? Follow this link to BlackBerry's Dev page to find out! 
+http://developer.blackberry.com/html5/documentation/v2_2/what_is_a_webworks_app.html
