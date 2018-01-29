@@ -4,8 +4,8 @@
     <description>
         Tower Defense Game, created with Webworks and Phaser.io
     </description>
-    <author email="dtuivs@gmail.com" href="http://github.com/dtuivs">
-        BB - DEV team, 
+    <author email="dtuivs@gmail.com" href="http://github.com/ginuxone">
+        Gino Milla
     </author>
     <content src="index.html" />
     <access origin="*" />

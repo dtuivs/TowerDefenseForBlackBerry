@@ -1,8 +1,7 @@
 # TowerDefense for BlackBerry10!
 
 The scope is to create a simple and easy game for all those Tower defense lovers. 
-
----
+--
 
 Why do this?
 Because we though it would be fun to make our own tower defense game while learning to increase our skills as a group.
@@ -17,6 +16,8 @@ I'm using the following to develop this :
 
 Learn Phaser!
 https://phaser.io/learn
+
+It is recommended you download, install and run webworks to run this. However, you can go into the www/ folder and run that however way you'd like.
 
 What's a BlackBerry WebWorks app? Follow this link to BlackBerry's Dev page to find out! 
 http://developer.blackberry.com/html5/documentation/v2_2/what_is_a_webworks_app.html
